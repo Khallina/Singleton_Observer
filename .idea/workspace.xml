@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4741fe8-c024-4487-8027-8750a684de08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Singleton Observer.iml" afterDir="false" />
-    </list>
+    <list default="true" id="c4741fe8-c024-4487-8027-8750a684de08" name="Changes" comment="Singleton Observer" />
     <list id="7f86521d-0aeb-42c1-a768-0bb84f41937d" name="Changes by adyac" comment="" />
     <list id="dbe6bb24-2307-4b55-96d8-41eb379a5508" name="Changes by yuddu" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +46,29 @@
       <option name="presentableId" value="Default" />
       <updated>1708471227871</updated>
     </task>
+    <task id="LOCAL-00001" summary="Singleton Observer">
+      <created>1708472961689</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708472961690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Singleton Observer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Singleton Observer" />
   </component>
 </project>
