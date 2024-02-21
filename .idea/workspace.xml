@@ -4,9 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4741fe8-c024-4487-8027-8750a684de08" name="Changes" comment="Singleton Observer" />
+    <list default="true" id="c4741fe8-c024-4487-8027-8750a684de08" name="Changes" comment="Singleton Observer">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repository.java" afterDir="false" />
+    </list>
     <list id="7f86521d-0aeb-42c1-a768-0bb84f41937d" name="Changes by adyac" comment="" />
-    <list id="dbe6bb24-2307-4b55-96d8-41eb379a5508" name="Changes by yuddu" comment="" />
+    <list id="4e3c0c65-3b6a-4ff3-9afa-c55f22649183" name="Changes by katel" comment="">
+      <change beforePath="$PROJECT_DIR$/BoxBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoxBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircleBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/CircleBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/Screen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repository.java" afterDir="false" />
+    </list>
+    <list id="dbe6bb24-2307-4b55-96d8-41eb379a5508" name="Changes by yuddu" comment="">
+      <change beforePath="$PROJECT_DIR$/BoxBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoxBuilder.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,9 +34,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/Repository.java">
+      <ranges>
+        <range start1="3" end1="7" start2="3" end2="7" changelist="c4741fe8-c024-4487-8027-8750a684de08" />
+        <range start1="8" end1="9" start2="8" end2="9" changelist="4e3c0c65-3b6a-4ff3-9afa-c55f22649183" />
+        <range start1="11" end1="12" start2="11" end2="12" changelist="c4741fe8-c024-4487-8027-8750a684de08" />
+      </ranges>
+    </file>
+    <file path="$PROJECT_DIR$/BoxBuilder.java">
+      <ranges>
+        <range start1="1" end1="2" start2="1" end2="2" changelist="dbe6bb24-2307-4b55-96d8-41eb379a5508" />
+        <range start1="7" end1="7" start2="7" end2="11" changelist="4e3c0c65-3b6a-4ff3-9afa-c55f22649183" />
+        <range start1="11" end1="13" start2="15" end2="16" changelist="dbe6bb24-2307-4b55-96d8-41eb379a5508" />
+      </ranges>
+    </file>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="2ceTpO9uphNteD2htvZk2XUYaqa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,9 +65,27 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-azul-18.0.2.1-4caba194b151-760f583b" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,6 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708471227871</updated>
+      <workItem from="1708473285954" duration="1299000" />
     </task>
     <task id="LOCAL-00001" summary="Singleton Observer">
       <created>1708472961689</created>
@@ -55,6 +105,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
